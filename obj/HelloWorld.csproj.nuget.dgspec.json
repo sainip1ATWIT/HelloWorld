@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sainip1\\OneDrive - Wentworth Institute of Technology\\Desktop\\HelloWorld\\HelloWorld.csproj": {}
+    "c:\\Users\\sainip1\\OneDrive - Wentworth Institute of Technology\\Desktop\\HelloWorld\\HelloWorld.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sainip1\\OneDrive - Wentworth Institute of Technology\\Desktop\\HelloWorld\\HelloWorld.csproj": {
+    "c:\\Users\\sainip1\\OneDrive - Wentworth Institute of Technology\\Desktop\\HelloWorld\\HelloWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sainip1\\OneDrive - Wentworth Institute of Technology\\Desktop\\HelloWorld\\HelloWorld.csproj",
+        "projectUniqueName": "c:\\Users\\sainip1\\OneDrive - Wentworth Institute of Technology\\Desktop\\HelloWorld\\HelloWorld.csproj",
         "projectName": "HelloWorld",
-        "projectPath": "C:\\Users\\sainip1\\OneDrive - Wentworth Institute of Technology\\Desktop\\HelloWorld\\HelloWorld.csproj",
+        "projectPath": "c:\\Users\\sainip1\\OneDrive - Wentworth Institute of Technology\\Desktop\\HelloWorld\\HelloWorld.csproj",
         "packagesPath": "C:\\Users\\sainip1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sainip1\\OneDrive - Wentworth Institute of Technology\\Desktop\\HelloWorld\\obj\\",
+        "outputPath": "c:\\Users\\sainip1\\OneDrive - Wentworth Institute of Technology\\Desktop\\HelloWorld\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sainip1\\AppData\\Roaming\\NuGet\\NuGet.Config",
